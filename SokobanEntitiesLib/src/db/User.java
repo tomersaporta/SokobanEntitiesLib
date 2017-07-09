@@ -11,6 +11,11 @@ import javax.persistence.OneToMany;
 
 import db.Level;
 
+
+/**
+ *Defines the User Entity in the DB- POJO object
+ *
+ */
 @Entity(name="Users")
 public class User {
 	

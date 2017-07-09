@@ -7,6 +7,11 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+
+/**
+ *Defines the record Entity in the DB- POJO object
+ *
+ */
 @Entity(name="Records")
 public class Record {
 

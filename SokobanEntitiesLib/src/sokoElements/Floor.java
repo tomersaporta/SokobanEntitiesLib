@@ -1,5 +1,11 @@
 package sokoElements;
 
+
+
+/**
+ * 
+ * Define the FLOOR element
+ */
 @SuppressWarnings("serial")
 public class Floor extends CommonGeneralElement implements unmovable {
 

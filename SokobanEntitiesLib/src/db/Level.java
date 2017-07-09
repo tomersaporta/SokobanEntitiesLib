@@ -22,8 +22,7 @@ import sokoElements.movable;
 import sokoElements.unmovable;
 import db.User;
 /**
- * <h1>Level</h1>
- *manage the whole data of the level
+ *manage the whole data of the level-POJO object
  */
 @SuppressWarnings("serial")
 @Entity(name="Levels")

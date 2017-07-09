@@ -11,6 +11,9 @@ import sokoElements.Target;
 import sokoElements.movable;
 import sokoElements.unmovable;
 
+/**
+ * Compressor and Decompressor to the Level object
+ */
 @SuppressWarnings("serial")
 public class CompressedLevel implements Serializable {
 	private String levelID;

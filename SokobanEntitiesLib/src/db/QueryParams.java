@@ -1,5 +1,10 @@
 package db;
 
+
+/**
+ * 
+ * Defines the parameters to the records query
+ */
 public class QueryParams {
 	
 	private String levelId;

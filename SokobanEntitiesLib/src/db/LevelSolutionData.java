@@ -5,6 +5,10 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
+/**
+ *Defines the Solution Entity in the DB- POJO object
+ *
+ */
 @Entity(name="LevelSolutionData")
 public class LevelSolutionData  {
 	

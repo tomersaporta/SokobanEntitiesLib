@@ -1,5 +1,11 @@
 package sokoElements;
 
+
+
+/**
+ * 
+ * Define the WALL element
+ */
 @SuppressWarnings("serial")
 public class Wall extends CommonGeneralElement implements unmovable {
 

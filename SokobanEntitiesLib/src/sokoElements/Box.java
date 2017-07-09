@@ -1,5 +1,9 @@
 package sokoElements;
 
+/**
+ * 
+ * Define the BOX element
+ */
 @SuppressWarnings("serial")
 public class Box extends CommonGeneralElement implements movable {
 	

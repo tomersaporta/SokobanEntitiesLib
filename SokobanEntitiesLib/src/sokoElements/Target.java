@@ -1,5 +1,11 @@
 package sokoElements;
 
+
+
+/**
+ * 
+ * Define the TARGET element
+ */
 @SuppressWarnings("serial")
 public class Target extends Floor implements unmovable {
 

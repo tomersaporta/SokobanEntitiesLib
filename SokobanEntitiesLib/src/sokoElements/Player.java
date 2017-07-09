@@ -1,5 +1,10 @@
 package sokoElements;
 
+
+/**
+ * 
+ * Define the PLAYER element
+ */
 @SuppressWarnings("serial")
 public class Player extends CommonGeneralElement implements movable{
 	
